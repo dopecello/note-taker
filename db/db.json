@@ -1,18 +1,19 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Third post",
+      "title": "First post",
       "text": "this text",
       "id": "1"
     },
     {
-      "title": "Fourth post",
+      "title": "Second post",
       "text": "hello",
       "id": "2"
+    },
+    {
+      "title": "Third Post",
+      "text": "This is a test on the front end.",
+      "id": "3"
     }
   ]
 }
